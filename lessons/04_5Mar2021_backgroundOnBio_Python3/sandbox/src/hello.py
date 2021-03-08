@@ -25,6 +25,7 @@ colour_list =['\033[1;30m',
 '\033[1;96m']
 
 BIWhite='\033[1;97m'      # White
+White='\033[0;37m'        # White
 
 
 
@@ -61,7 +62,7 @@ def main():
 		randomColour_str = random.choice(colour_list) # choose a random colour to display the title screen.
 
 	# print the hello world already!!
-		print(randomColour_str + banner1_str + BIWhite)
+		print(randomColour_str + banner1_str + White)
 
 	# report the perceived OS type
 	platform_str = get_platformType()
