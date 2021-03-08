@@ -10,7 +10,8 @@ NC='\033[0m' # No Colour
 printf "\n [+] ${BIGreen} Hello ${USER}! Setting up your working container.${NC}\n [+]  ${BIGreen}You may be asked to enter your password.${NC}\n"
 
 # Run container:
-docker run --rm -it -v $PWD:/root devi
+#docker run --rm -it -v $PWD:/root devi
+docker run --rm -it -v "$PWD:/root" devi
 
 printf "\n  [+]  ${BIGreen} Returning file ownership from root to ${USER}.\n       You may be asked to reenter your password.${NC}\n"
 
