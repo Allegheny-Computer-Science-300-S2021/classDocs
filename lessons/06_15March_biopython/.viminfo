@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :x
-|2,0,1615822865,,"x"
+|2,0,1616039328,,"x"
 :q
 |2,0,1615822781,,"q"
 :w
@@ -32,36 +32,64 @@
 |3,1,0,1,1,0,1615822761,"        print(\"\\t\",myDNASeqA[i])"
 
 # File marks:
-'0  64  9  ~/src/dogma.py
-|4,48,64,9,1615822865,"~/src/dogma.py"
-'1  54  32  ~/src/dogma.py
-|4,49,54,32,1615822797,"~/src/dogma.py"
-'2  54  32  ~/src/dogma.py
-|4,50,54,32,1615822797,"~/src/dogma.py"
-'3  54  32  ~/src/dogma.py
-|4,51,54,32,1615822789,"~/src/dogma.py"
-'4  54  32  ~/src/dogma.py
-|4,52,54,32,1615822789,"~/src/dogma.py"
-'5  53  31  ~/src/dogma.py
-|4,53,53,31,1615822781,"~/src/dogma.py"
-'6  53  31  ~/src/dogma.py
-|4,54,53,31,1615822781,"~/src/dogma.py"
-'7  53  31  ~/src/dogma.py
-|4,55,53,31,1615822781,"~/src/dogma.py"
-'8  53  31  ~/src/dogma.py
-|4,56,53,31,1615822781,"~/src/dogma.py"
-'9  53  31  ~/src/dogma.py
-|4,57,53,31,1615822781,"~/src/dogma.py"
+'0  66  19  ~/src/dogma.py
+|4,48,66,19,1616039328,"~/src/dogma.py"
+'1  66  19  ~/src/dogma.py
+|4,49,66,19,1616039324,"~/src/dogma.py"
+'2  67  36  ~/src/dogma.py
+|4,50,67,36,1616039310,"~/src/dogma.py"
+'3  67  36  ~/src/dogma.py
+|4,51,67,36,1616039310,"~/src/dogma.py"
+'4  67  36  ~/src/dogma.py
+|4,52,67,36,1616039310,"~/src/dogma.py"
+'5  67  36  ~/src/dogma.py
+|4,53,67,36,1616039310,"~/src/dogma.py"
+'6  64  9  ~/src/dogma.py
+|4,54,64,9,1615822865,"~/src/dogma.py"
+'7  64  9  ~/src/dogma.py
+|4,55,64,9,1615822865,"~/src/dogma.py"
+'8  64  9  ~/src/dogma.py
+|4,56,64,9,1615822865,"~/src/dogma.py"
+'9  64  9  ~/src/dogma.py
+|4,57,64,9,1615822865,"~/src/dogma.py"
 
 # Jumplist (newest first):
+-'  66  19  ~/src/dogma.py
+|4,39,66,19,1616039328,"~/src/dogma.py"
+-'  66  19  ~/src/dogma.py
+|4,39,66,19,1616039324,"~/src/dogma.py"
+-'  67  36  ~/src/dogma.py
+|4,39,67,36,1616039315,"~/src/dogma.py"
+-'  67  36  ~/src/dogma.py
+|4,39,67,36,1616039315,"~/src/dogma.py"
+-'  67  36  ~/src/dogma.py
+|4,39,67,36,1616039310,"~/src/dogma.py"
+-'  64  9  ~/src/dogma.py
+|4,39,64,9,1616039273,"~/src/dogma.py"
+-'  64  9  ~/src/dogma.py
+|4,39,64,9,1616039273,"~/src/dogma.py"
+-'  64  9  ~/src/dogma.py
+|4,39,64,9,1616039273,"~/src/dogma.py"
 -'  64  9  ~/src/dogma.py
 |4,39,64,9,1615822865,"~/src/dogma.py"
+-'  54  32  ~/src/dogma.py
+|4,39,54,32,1615822800,"~/src/dogma.py"
+-'  54  32  ~/src/dogma.py
+|4,39,54,32,1615822800,"~/src/dogma.py"
+-'  54  32  ~/src/dogma.py
+|4,39,54,32,1615822800,"~/src/dogma.py"
 -'  54  32  ~/src/dogma.py
 |4,39,54,32,1615822800,"~/src/dogma.py"
 -'  54  32  ~/src/dogma.py
 |4,39,54,32,1615822797,"~/src/dogma.py"
 -'  54  32  ~/src/dogma.py
 |4,39,54,32,1615822789,"~/src/dogma.py"
+-'  53  31  ~/src/dogma.py
+|4,39,53,31,1615822784,"~/src/dogma.py"
+-'  53  31  ~/src/dogma.py
+|4,39,53,31,1615822784,"~/src/dogma.py"
+-'  53  31  ~/src/dogma.py
+|4,39,53,31,1615822784,"~/src/dogma.py"
 -'  53  31  ~/src/dogma.py
 |4,39,53,31,1615822784,"~/src/dogma.py"
 -'  53  31  ~/src/dogma.py
@@ -82,6 +110,18 @@
 |4,39,53,34,1615822727,"~/src/dogma.py"
 -'  53  34  ~/src/dogma.py
 |4,39,53,34,1615822706,"~/src/dogma.py"
+-'  56  0  ~/src/dogma.py
+|4,39,56,0,1615822660,"~/src/dogma.py"
+-'  55  0  ~/src/dogma.py
+|4,39,55,0,1615822660,"~/src/dogma.py"
+-'  56  0  ~/src/dogma.py
+|4,39,56,0,1615822660,"~/src/dogma.py"
+-'  55  0  ~/src/dogma.py
+|4,39,55,0,1615822660,"~/src/dogma.py"
+-'  56  0  ~/src/dogma.py
+|4,39,56,0,1615822660,"~/src/dogma.py"
+-'  55  0  ~/src/dogma.py
+|4,39,55,0,1615822660,"~/src/dogma.py"
 -'  56  0  ~/src/dogma.py
 |4,39,56,0,1615822660,"~/src/dogma.py"
 -'  55  0  ~/src/dogma.py
@@ -123,7 +163,19 @@
 -'  48  53  ~/src/dogma.py
 |4,39,48,53,1615822524,"~/src/dogma.py"
 -'  48  53  ~/src/dogma.py
+|4,39,48,53,1615822524,"~/src/dogma.py"
+-'  48  53  ~/src/dogma.py
+|4,39,48,53,1615822524,"~/src/dogma.py"
+-'  48  53  ~/src/dogma.py
+|4,39,48,53,1615822524,"~/src/dogma.py"
+-'  48  53  ~/src/dogma.py
 |4,39,48,53,1615822480,"~/src/dogma.py"
+-'  47  7  ~/src/dogma.py
+|4,39,47,7,1615822459,"~/src/dogma.py"
+-'  47  7  ~/src/dogma.py
+|4,39,47,7,1615822459,"~/src/dogma.py"
+-'  47  7  ~/src/dogma.py
+|4,39,47,7,1615822459,"~/src/dogma.py"
 -'  47  7  ~/src/dogma.py
 |4,39,47,7,1615822459,"~/src/dogma.py"
 -'  47  7  ~/src/dogma.py
@@ -146,6 +198,12 @@
 |4,39,47,7,1615822441,"~/src/dogma.py"
 -'  47  39  ~/src/dogma.py
 |4,39,47,39,1615822384,"~/src/dogma.py"
+-'  39  17  ~/src/dogma.py
+|4,39,39,17,1615822225,"~/src/dogma.py"
+-'  39  17  ~/src/dogma.py
+|4,39,39,17,1615822225,"~/src/dogma.py"
+-'  39  17  ~/src/dogma.py
+|4,39,39,17,1615822225,"~/src/dogma.py"
 -'  39  17  ~/src/dogma.py
 |4,39,39,17,1615822225,"~/src/dogma.py"
 -'  39  17  ~/src/dogma.py
@@ -195,77 +253,19 @@
 -'  22  11  ~/src/dogma.py
 |4,39,22,11,1615822021,"~/src/dogma.py"
 -'  22  11  ~/src/dogma.py
-|4,39,22,11,1615821938,"~/src/dogma.py"
--'  32  38  ~/src/dogma.py
-|4,39,32,38,1615821896,"~/src/dogma.py"
--'  32  38  ~/src/dogma.py
-|4,39,32,38,1615821896,"~/src/dogma.py"
--'  32  38  ~/src/dogma.py
-|4,39,32,38,1615821896,"~/src/dogma.py"
--'  32  38  ~/src/dogma.py
-|4,39,32,38,1615821896,"~/src/dogma.py"
--'  32  38  ~/src/dogma.py
-|4,39,32,38,1615821896,"~/src/dogma.py"
--'  32  38  ~/src/dogma.py
-|4,39,32,38,1615821896,"~/src/dogma.py"
--'  32  38  ~/src/dogma.py
-|4,39,32,38,1615821896,"~/src/dogma.py"
--'  32  38  ~/src/dogma.py
-|4,39,32,38,1615821896,"~/src/dogma.py"
--'  32  38  ~/src/dogma.py
-|4,39,32,38,1615821896,"~/src/dogma.py"
--'  32  38  ~/src/dogma.py
-|4,39,32,38,1615821896,"~/src/dogma.py"
--'  32  38  ~/src/dogma.py
-|4,39,32,38,1615821896,"~/src/dogma.py"
--'  32  38  ~/src/dogma.py
-|4,39,32,38,1615821896,"~/src/dogma.py"
--'  32  38  ~/src/dogma.py
-|4,39,32,38,1615821896,"~/src/dogma.py"
--'  32  38  ~/src/dogma.py
-|4,39,32,38,1615821888,"~/src/dogma.py"
--'  24  49  ~/src/dogma.py
-|4,39,24,49,1615821682,"~/src/dogma.py"
--'  24  49  ~/src/dogma.py
-|4,39,24,49,1615821682,"~/src/dogma.py"
--'  24  49  ~/src/dogma.py
-|4,39,24,49,1615821682,"~/src/dogma.py"
--'  24  49  ~/src/dogma.py
-|4,39,24,49,1615821682,"~/src/dogma.py"
--'  24  49  ~/src/dogma.py
-|4,39,24,49,1615821682,"~/src/dogma.py"
--'  24  49  ~/src/dogma.py
-|4,39,24,49,1615821682,"~/src/dogma.py"
--'  24  49  ~/src/dogma.py
-|4,39,24,49,1615821682,"~/src/dogma.py"
--'  24  49  ~/src/dogma.py
-|4,39,24,49,1615821682,"~/src/dogma.py"
--'  24  49  ~/src/dogma.py
-|4,39,24,49,1615821682,"~/src/dogma.py"
--'  24  49  ~/src/dogma.py
-|4,39,24,49,1615821682,"~/src/dogma.py"
--'  24  49  ~/src/dogma.py
-|4,39,24,49,1615821682,"~/src/dogma.py"
--'  24  49  ~/src/dogma.py
-|4,39,24,49,1615821682,"~/src/dogma.py"
--'  24  49  ~/src/dogma.py
-|4,39,24,49,1615821682,"~/src/dogma.py"
--'  24  49  ~/src/dogma.py
-|4,39,24,49,1615821682,"~/src/dogma.py"
--'  24  49  ~/src/dogma.py
-|4,39,24,49,1615821633,"~/src/dogma.py"
+|4,39,22,11,1615822021,"~/src/dogma.py"
 
 # History of marks within files (newest to oldest):
 
 > ~/src/dogma.py
-	*	1615822864	0
-	"	64	9
-	^	54	31
-	.	54	30
+	*	1616039326	0
+	"	66	19
+	^	66	20
+	.	66	19
 	+	64	10
 	+	63	18
 	+	65	22
-	+	67	23
+	+	70	23
 	+	2	0
 	+	3	10
 	+	58	0
@@ -345,6 +345,9 @@
 	+	54	19
 	+	55	27
 	+	54	30
+	+	68	0
+	+	67	36
+	+	66	19
 
 > ~/src/binDNA/binDNA_ii.py
 	*	1615820271	0

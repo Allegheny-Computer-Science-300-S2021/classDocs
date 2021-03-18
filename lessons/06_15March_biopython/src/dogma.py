@@ -18,7 +18,7 @@ def main():
 
 	# define the DNA sequences
 	myDNASeqA = Seq("AGTACAGTA")
-	myDNASeqB = Seq("AGTACAGAA")
+	myDNASeqB = Seq("AGTAGAGAA")
 
 	print("\t The sequences:")
 	print("\t myDNASeqA :", myDNASeqA)
@@ -59,10 +59,18 @@ def main():
 
 	# comparison
 
-	print("\n\t Output the sequences char by char")
-	print("\t seqA and seqB")
+	print("\n\t Compare the sequences char by char")
+	print("\n\t seqA seqB")
+	mismatchCount_int = 0 # keep a tally of the number of mismatches
 	for i in range(len(myDNASeqA)):
-		print("\t",myDNASeqA[i], "\t",myDNASeqB[i])
+		match_str = "  "
+		if (myDNASeqA[i] != myDNASeqB[i]):
+			mismatchCount_int += 1
+			match_str = "!=" # replace this connection string to show that there is no match
+
+		tmp_str = f"\t {myDNASeqA[i]} {match_str} {myDNASeqB[i]}"
+		print(tmp_str)
+	print(f"\n\t Total mismatches: {mismatchCount_int}")
 
 	#end main()
 
