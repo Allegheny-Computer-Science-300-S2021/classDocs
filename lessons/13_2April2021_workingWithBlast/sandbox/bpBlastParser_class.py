@@ -96,20 +96,25 @@ def saveMyResultsToFile(myResults, versionNumber_str):
 #	myResults.close()
 	# end of saveMyResultsToFile()
 
-
 def main():
 	"""Driver function for the program"""
 	print(BIGreen + "\tBlast Analysis.\n\tA version number of a sequence will be required. "+White)
 
 	# ask the user for version number of sequence to analyze by Blast
+	versionNumber_str = getVersionNumber()
+	# Or use hard-coded short sequences
+	# versionNumber_str = 87042723
+	#Note: 87042723 is a GI for S.agalactiae ermB
 
-# TODO
-
+	#blastResults = runBlast(versionNumber_str) # run blast function and then save result in variable
+	print(BIGreen + f"\t[+] Parsing results...\n"+White)
+	#parseResults(blastResults)
+	print("\t[+] Saving results...")
+	#saveMyResultsToFile(blastResults, versionNumber_str) # save a file of the results
+	# print(f"Type of blastResult is {type(blastResults)}")
 	print("\n")
-	print(BIGreen + f"\tParsing results...\n"+White)
-# TODO
-# end of main()
 
+# end of main()
 
 # import statements
 # check that the library is available to the code...
