@@ -93,7 +93,8 @@ def saveMyResultsToFile(myResults, versionNumber_str):
 	save_file = open(versionNumber_str + ".xml", "w") # save the results as an xml file with extension
 	save_file.write(myResults.read())
 	save_file.close()
-	myResults.close()
+#	myResults.close()
+	# end of saveMyResultsToFile()
 
 
 def main():
